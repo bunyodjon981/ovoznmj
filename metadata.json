@@ -1,0 +1,6 @@
+{
+  "name": "Telefonim AI",
+  "description": "24/7 ovozli va aqlli telefon boshqaruvchisi — Groq AI yordamida telefonning barcha imkoniyatlarini ovoz orqali boshqarish",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

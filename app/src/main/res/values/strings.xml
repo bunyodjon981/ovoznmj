@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Telefonim AI</string>
+    <string name="accessibility_service_description">Telefonim AI yordamchisi ekrandagi maʼlumotlarni koʻrish, tugmalarni bosish, matn yozish va barcha ilovalarni ovozli buyruq orqali boshqarish uchun ekran nazoratidan foydalanadi.</string>
+    <string name="notification_channel_name">24/7 Ovozli Yordamchi</string>
+    <string name="notification_channel_desc">Orqa fonda chaqiruv soʻzini tinglash va buyruqlarni bajarish xizmati</string>
+</resources>
